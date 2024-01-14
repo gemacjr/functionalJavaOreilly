@@ -1,0 +1,17 @@
+
+‚
+java:S1192E"`Define a constant instead of duplicating this literal "-------------------------------" 9 times.(ç‘ë®üÿÿÿÿ8á«“«Ð1
+[
+java:S1612"9Replace this lambda with method reference 'results::add'.(åâû¤úÿÿÿÿ8—¬“«Ð1
+]
+java:S1612N"@Replace this lambda with method reference 'String::toUpperCase'.(•¡Ê°8¡¬“«Ð1
+]
+java:S1612O"@Replace this lambda with method reference 'System.out::println'.(›ì´¹8¡¬“«Ð1
+]
+java:S1612w"@Replace this lambda with method reference 'String::toUpperCase'.(÷Ô£ö8®¬“«Ð1
+]
+java:S1612x"@Replace this lambda with method reference 'System.out::println'.(Œ²–ó8¯¬“«Ð1
+]
+java:S1612~"@Replace this lambda with method reference 'System.out::println'.(Œ²–ó8±¬“«Ð1
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8±¬“«Ð1
